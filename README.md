@@ -8,8 +8,8 @@ This is an object file needed by AFL for compiling ARM binaries on x86.
 
 Rename your version to a backup name and copy this new version in its place.
 
-`cd AFLPlusPlus
+`cd AFLPlusPlus`
 
-mv afl-compiler-rt.o afl-compiler-rt-x86.o
+`mv afl-compiler-rt.o afl-compiler-rt-x86.o`
 
-mv ~/Downloads/afl-compiler-rt.o AFLPlusPlus/`
+`mv ~/Downloads/afl-compiler-rt.o AFLPlusPlus/`
